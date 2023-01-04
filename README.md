@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @user437
+- 👋 Hi, my name is Efrain Valenzuela
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on anything related about Data Analytics
