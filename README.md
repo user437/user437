@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Efrain Valenzuela
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on anything related about Data Analytics
+- 🌱 I’m currently looking for a job
+- 💞️ I’m looking to collaborate on anything related about SQL
 - 📫 How to reach me efra2121@gmail.com
 
 <!---
